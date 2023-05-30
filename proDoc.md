@@ -7,3 +7,6 @@
 ### Image that shows how the project is being committed to git
 
 ![Git_Commit](images/gitCommit.png "Git Commit")
+
+### Below is the video link
+### https://www.loom.com/share/e3d39ff95e6b4a45b327635d85adf807
